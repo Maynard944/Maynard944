@@ -4,7 +4,7 @@
 
 <h3 align="left">Projects:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notifirehq&repo=notifire)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notifirehq&repo=notifire)](https://github.com/notifirehq/notifire)
 
 - 📫 How to reach me **weismanoren@gmail.com**
 
