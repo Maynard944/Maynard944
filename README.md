@@ -1,26 +1,2 @@
 <h1 align="center">Hi 👋, I'm Oren</h1>
 <h3 align="center">A passionate frontend developer from UK</h3>
-
-
-<h3 align="left">Projects:</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notifirehq&repo=notifire)](https://github.com/notifirehq/notifire)
-
-- 📫 How to reach me **weismanoren@gmail.com**
-
-![](https://hit.yhype.me/github/profile?user_id=90311276)
-
-<!--
-**Maynard944/Maynard944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
